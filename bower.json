@@ -1,0 +1,22 @@
+{
+  "name": "github-userlookup",
+  "description": "independent project using API",
+  "main": "gulpfile.js",
+  "authors": [
+    "vichitra pool"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
