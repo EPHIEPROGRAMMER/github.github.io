@@ -29,32 +29,3 @@ $(document).ready(function() {
     $('#showRepos').empty();
   });
 });
-
-//Get user repo
-
-// $('img#userPic').text "<img " response.avatar_url + " , " + response. html_url  + ".");
-
-
-// var login = $('#userName').val("");
-// var html_url = href =
-//
-//
-// <img id="userPic" src="https://avatars.githubusercontent.com/u/19232053?v=3" alt="avatar_url" />
-
-
-
-
-// var Repos = require('./../js/userLookup-interface.js').reposModule;
-//
-// $(document).ready(function() {
-//   var userNameRepos = new Repos();
-//   $('#searchName').click(function() {
-//     //get value from form and make any input into lowerCase
-//     var name = $('#userName').val().toLowerCase();
-//     $('#userName').val("");
-//     //Repos.prototype.getRepos = function(methodParameter){getRepos code}
-//     $('.showUser').text("The username you chose is " +name+ ".");
-//
-//   });
-//
-// });

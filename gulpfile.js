@@ -65,6 +65,7 @@ gulp.task("build", function(){
   }
   gulp.start('bower');
   gulp.start('cssBuild');
+  gulp.start('serve');
 });
 
 gulp.task('jshint', function() {

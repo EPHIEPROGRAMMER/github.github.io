@@ -1,9 +1,9 @@
 {
-  "name": "github-userlookup",
-  "description": "independent project using API",
-  "main": "gulpfile.js",
+  "name": "pingtest",
+  "description": "",
+  "main": "index.js",
   "authors": [
-    "vichitra pool"
+    "EPHIEPROGRAMMER <ephantus.muthunga@gmail.com>"
   ],
   "license": "ISC",
   "homepage": "",
@@ -17,6 +17,6 @@
   "dependencies": {
     "jquery": "^3.1.1",
     "bootstrap": "^3.3.7",
-    "moment": "^2.15.1"
+    "moment": "^2.17.1"
   }
 }

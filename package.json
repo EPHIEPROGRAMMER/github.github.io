@@ -1,34 +1,26 @@
 {
-  "name": "github-userlookup",
+  "name": "pingtest",
   "version": "1.0.0",
-  "description": "independent project using API",
-  "main": "gulpfile.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TalayRuk/Github-UserLookup.git"
-  },
-  "author": "vichitra pool",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TalayRuk/Github-UserLookup/issues"
-  },
-  "homepage": "https://github.com/TalayRuk/Github-UserLookup#readme",
   "devDependencies": {
     "bower-files": "^3.14.1",
-    "browser-sync": "^2.17.3",
-    "browserify": "^13.1.0",
+    "browser-sync": "^2.18.8",
+    "browserify": "^14.1.0",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
-    "gulp-concat": "^2.6.0",
-    "gulp-jshint": "^2.0.1",
-    "gulp-sass": "^2.3.2",
-    "gulp-sourcemaps": "^2.1.1",
-    "gulp-uglify": "^2.0.0",
-    "gulp-util": "^3.0.7",
-    "jshint": "^2.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
     "vinyl-source-stream": "^1.1.0"
   }
 }

@@ -17,9 +17,3 @@ Repos.prototype.getRepos = function(name, displayFunction){
 
 
 exports.reposModule = Repos;
-
-//might change to exports.getRepos = Repos;
-//write Get repos method
-//using response.public_repos
-//avatar .attr("src", response.avatar_url);
-//author: response.name
